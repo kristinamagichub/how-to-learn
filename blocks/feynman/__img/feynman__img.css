@@ -1,0 +1,12 @@
+.feynman__img {
+  width: 867px;
+  height: 637px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  align-self: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}

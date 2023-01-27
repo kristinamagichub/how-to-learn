@@ -1,0 +1,17 @@
+.header__link {
+  margin-right: 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
+}
+
+.header__link:last-of-type {
+  margin-right: 0;
+}
+
+.header__link:hover {
+  opacity: 0.5;
+  transition: opacity 1s linear;
+}
