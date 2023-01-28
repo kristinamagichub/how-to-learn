@@ -1,3 +1,5 @@
+
+___
 # __Научиться учиться__
 ***
 __Описание__
@@ -58,7 +60,7 @@ ___
     Работа выполнена по заданию от компании Яндекс
 По бриф листам  | [brief-list 1](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf) | [brief-list 2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf) |
 
-Проверено по чек листам |[check-list 1](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-1.pdf) | [check-list 2](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-2.pdf)
+Проверено по чек листам | [check-list 1](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-1.pdf) | [check-list 2](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-2.pdf)
 ___
 
 
